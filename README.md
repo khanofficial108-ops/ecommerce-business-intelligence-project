@@ -243,6 +243,26 @@ Furniture: Profit=$1,595.00, Margin=40.6%
 Clothing: Profit=$260.00, Margin=30.7%
 
 
+# Dashboard Visuals
+
+## Dashboard 1
+
+![Dashboard 1](dashboard 1.png)
+
+---
+
+## Dashboard 2
+
+![Dashboard 2](dashboard 2.png)
+
+---
+
+## Dashboard 3
+
+![Dashboard 3](dashboard 3.png)
+
+
+
 COMPREHENSIVE REVIEW BELOW:
 
 Based on a comprehensive review of your dashboard charts and the underlying data profile, here is an executive data analysis paired with **10 strategic action items** designed to eliminate operational friction and scale your business exponentially.
