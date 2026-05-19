@@ -242,25 +242,21 @@ Electronics: Profit=$10,345.00, Margin=33.8%
 Furniture: Profit=$1,595.00, Margin=40.6%
 Clothing: Profit=$260.00, Margin=30.7%
 
-
-# Dashboard Visuals
-
 ## Dashboard 1
 
-![Dashboard 1](dashboard 1.png)
+![Dashboard 1](dashboard_1.png)
 
 ---
 
 ## Dashboard 2
 
-![Dashboard 2](dashboard 2.png)
+![Dashboard 2](dashboard_2.png)
 
 ---
 
 ## Dashboard 3
 
-![Dashboard 3](dashboard 3.png)
-
+![Dashboard 3](dashboard_3.png)
 
 
 COMPREHENSIVE REVIEW BELOW:
